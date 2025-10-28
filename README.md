@@ -5,7 +5,7 @@
 
 - 🌱 Currently Exploring **VLMs, Multimodals and Attention Networks**
 
-- 💻 Proficient in **Computer Vison, Machine Learning and Image Processing**
+- 💻 Proficient in **Computer Vison, Deep Learning, Machine Learning and Image Processing**
 
 - 📫 How to reach me **anshumanrunnydec@gmail.com**
 
